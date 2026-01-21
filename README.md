@@ -1,8 +1,6 @@
-<p align="center">
-  <img src="Image Jan.png" width="800" alt="Muneer S - Data Analyst" />
-</p>
+
 <img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXlzamowdDFqbWxjeDhhZzdxNDVuNmpwMW82em9kbno3YTFhYmt0MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif">
-<h1 align="center">👋 Hi, Welcome to my profile</h1>
+<h1 align="center">👋 Hi, Welcome To My Profile</h1>
 <h3 align="center">Data Analyst | Python | SQL | Power BI | Excel</h3>
 
 ---
